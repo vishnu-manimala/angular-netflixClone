@@ -1,0 +1,14 @@
+.navbar{
+    background-color: black;
+}
+.navbar .navbar-brand{
+    height: 70px;
+    width: 100px;
+}
+
+.navbar .nav-link{
+    color: red;
+}
+button {
+    color:red;
+}
